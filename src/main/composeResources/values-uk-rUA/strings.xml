@@ -56,6 +56,7 @@
     <string name="status_offline">Офлайн</string>
     <string name="status_ready">Готово</string>
     <string name="filter_apps_hint">Фільтрувати застосунки…</string>
+    <string name="version">Версія</string>
     <string name="version_label_stable">Стабільна</string>
     <string name="version_label_dev">Dev</string>
     <string name="version_label_experimental">Експериментальна</string>
@@ -227,7 +228,6 @@
     <string name="home_apk_info_remove_description">Видалити APK</string>
     <string name="home_apk_info_limited_info_warning">Не вдалося повністю прочитати маніфест цього APK (часто буває для розділених наборів). Деталі нижче приблизні, патчинг усе одно має працювати</string>
     <string name="home_apk_info_unsupported_app_warning">Не знайдено сумісних патчів для цього застосунку. Ви можете продовжити, але патчинг може не мати ефекту</string>
-    <string name="home_apk_info_version_label">Версія</string>
     <string name="home_apk_info_build_label">Збірка</string>
     <string name="home_apk_info_size_label">Розмір</string>
     <string name="home_apk_info_value_api">API %1$d</string>
@@ -443,7 +443,6 @@
     <string name="patching_graph_storage_io">Введення-виведення сховища</string>
     <string name="patching_graph_cpu_usage">Використання ЦП</string>
     <string name="patching_banner_started_title">Патчинг розпочато</string>
-    <string name="patching_banner_app_version">Версія застосунку</string>
     <string name="patching_banner_apk_size">Розмір APK</string>
     <string name="patching_banner_patches">Патчі</string>
     <string name="patching_banner_split_apk">Split APK</string>
@@ -712,7 +711,7 @@
     <string name="settings_section_background_animation">Анімація фону</string>
     <string name="settings_background_circles">Кола</string>
     <string name="settings_background_rings">Кільця</string>
-    <string name="settings_background_mesh">Сітка</string>
+    <string name="settings_background_mesh">Полігони</string>
     <string name="settings_background_space">Космос</string>
     <string name="settings_background_shapes">Фігури</string>
     <string name="settings_background_snow">Сніг</string>

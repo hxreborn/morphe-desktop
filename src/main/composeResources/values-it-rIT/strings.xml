@@ -56,6 +56,7 @@
     <string name="status_offline">Offline</string>
     <string name="status_ready">Pronto</string>
     <string name="filter_apps_hint">Filtra app…</string>
+    <string name="version">Versione</string>
     <string name="version_label_stable">Stabile</string>
     <string name="version_label_dev">Dev</string>
     <string name="version_label_experimental">Sperimentale</string>
@@ -227,7 +228,6 @@
     <string name="home_apk_info_remove_description">Rimuovi APK</string>
     <string name="home_apk_info_limited_info_warning">Impossibile leggere completamente il manifest di questo APK (comune per i bundle split). I dettagli sotto sono approssimativi, l'applicazione delle patch dovrebbe funzionare comunque</string>
     <string name="home_apk_info_unsupported_app_warning">Nessuna patch compatibile trovata per questa app. Puoi comunque procedere, ma l'applicazione delle patch potrebbe non avere effetto</string>
-    <string name="home_apk_info_version_label">Versione</string>
     <string name="home_apk_info_build_label">Build</string>
     <string name="home_apk_info_size_label">Dimensione</string>
     <string name="home_apk_info_value_api">API %1$d</string>
@@ -443,7 +443,6 @@
     <string name="patching_graph_storage_io">I/O di archiviazione</string>
     <string name="patching_graph_cpu_usage">Utilizzo CPU</string>
     <string name="patching_banner_started_title">Applicazione patch avviata</string>
-    <string name="patching_banner_app_version">Versione app</string>
     <string name="patching_banner_apk_size">Dimensione APK</string>
     <string name="patching_banner_patches">Patch</string>
     <string name="patching_banner_split_apk">Split APK</string>
